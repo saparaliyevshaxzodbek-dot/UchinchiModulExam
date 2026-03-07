@@ -1,0 +1,8 @@
+1. Savol: Interfase va Abstraction  bu  Abstraction OOP ni 4 ustunidan biri bolib bu mavhumlikni bildiradi. Interfase 
+foydalanish Abstractionni qollashni bir yoli . Biz bu orqali mavhumlikka yani Abstractionga erishamiz. Abstraction class orqali ham Abstractionga erishish mumkun.
+2. Savol: Delegatlar bu methodlarni refreslarini yani linklarini o'zi bilan olib yuradi uni 3 ta turi bor bular Action, Func, Predikeyt  
+Action void qaytaradigan methodlar kiradi Func esa bironbir tip qaytaradi yani return tayp funksiyalar kiradi Func bilan Prediketni bita qilib Func yordamida Ishlatsa boladi
+Predikeyt esa bool tip qaytaradi gan methodlar kiradi shular delegatni turlari Hullr asosiy manosi delegat yordamida birnechta methodlarni birdaniga ishga tushurish mumkin
+
+3. Savol:String o'zi ichida belgilar ketma ketligini saqlaydi StringBuilder ham oz ichida belgilar ketma ketligini saqlaydi yani textlarni saqlaydi
+bularni asosiy farqi hotirada joylashishida va string kop ishlatiladi keyin string bu imyutibil stringbyulder ese myutibil farqi shunda .
